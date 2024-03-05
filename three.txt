@@ -1,6 +1,9 @@
-dklfjsldkfjlsk
-kldfjskdfj
-lkdsfjlkdf
-klfjsdlkfj
-kldfjlsdkfj
-dfklsdjl
+first=int(input("enter the firsst no"))
+second=int(input("enter the second no"))
+print(first)
+print(Second)
+for i in range(5):
+	third=first+second
+	print(third)
+	first=second
+	second=third
